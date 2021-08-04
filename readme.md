@@ -8,4 +8,7 @@ make install
 ```
 
 add php.ini
+
+```shell
 extension=diseval.so
+```
